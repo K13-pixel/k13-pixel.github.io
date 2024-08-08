@@ -16,3 +16,12 @@ nav a{
     text-decoration: none;
     padding: 10px;
 }
+
+a {
+    text-decoration: nonea;
+    transition: 50ms;
+}
+
+a:hover {
+    font-size: 0.5cm;
+}
