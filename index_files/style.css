@@ -14,7 +14,7 @@ nav a{
 }
 
 a {
-    text-decoration: none;
+    text-decoration: nonea;
     transition: 50ms;
 }
 
