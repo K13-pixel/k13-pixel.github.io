@@ -16,3 +16,8 @@ nav a{
     text-decoration: none;
     padding: 10px;
 }
+
+img{
+    position: relative;
+    top: 5px;
+}
